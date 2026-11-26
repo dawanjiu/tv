@@ -167,25 +167,25 @@
       "name": "魔都动漫",
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "relay": true
-    }
+    },
    {
       "key": "91md.me",
       "name": "麻豆视频",
       "api": "https://www.91md.me/api.php/provide/vod",
       "relay": true
-    }
+    },
    {
       "key": "shayuapi.com",
       "name": "鲨鱼视频",
       "api": "https://shayuapi.com/api.php/provide/vod",
       "relay": true
-    }
+    },
    {
       "key": "lbapi9.com",
       "name": "乐播资源",
       "api": "https://lbapi9.com/api.php/provide/vod",
       "relay": true
-    }
+    },
    {
       "key": "番号资源",
       "name": "番号资源 ",
