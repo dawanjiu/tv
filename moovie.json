@@ -188,8 +188,8 @@
     }
    {
       "key": "番号资源",
-        "name": "番号资源 ",
-        "api": "http://fhapi9.com/api.php/provide/vod",
+      "name": "番号资源 ",
+      "api": "http://fhapi9.com/api.php/provide/vod",
       "relay": true
     }
   ]
